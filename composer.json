@@ -1,17 +1,17 @@
 {
-    "name": "xhat/payjs",
-    "description": "本项目是基于 PAYJS 的 API 开发的 Composer Package，可直接用于生产环境 https://payjs.cn",
+    "name": "hiyouli/payjz",
+    "description": "本项目是基于 PAYJS 的 API 开发的 Composer Package，可直接用于生产环境 https://payjz.cn",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "andy",
-            "email": "andy@popfeng.com"
+            "name": "youli",
+            "email": "youli@outlook.com"
         }
     ],
     "autoload": {
         "psr-4": {
-            "Xhat\\Payjs\\": "src/"
+            "hiyouli\\Payjz\\": "src/"
         }
     }
 }
